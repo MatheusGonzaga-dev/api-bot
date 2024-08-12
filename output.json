@@ -1,0 +1,1322 @@
+[
+  {
+    "cliente": "DÉBITOS E CRÉDITOS CLIENTES",
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "CLIENTES ",
+    "debito": "DEB",
+    "credito": "CRED",
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "AGNELO",
+    "credito": 74.31,
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "AS PEDRAS",
+    "debito": 8173.35,
+    "data": "2024-07-25"
+  },
+  {
+    "cliente": "ANINHA",
+    "debito": 21625.3,
+    "data": "2024-08-07"
+  },
+  {
+    "cliente": "AILTON CORISCO",
+    "debito": 1522.6,
+    "data": "2024-08-01"
+  },
+  {
+    "cliente": "AGRIMALDO",
+    "debito": 279.2,
+    "data": "2024-07-03"
+  },
+  {
+    "cliente": "ALEX ",
+    "credito": 4.91,
+    "data": "2024-04-09"
+  },
+  {
+    "cliente": "ANDERSON DBS",
+    "debito": 4475.14,
+    "data": "2024-07-19"
+  },
+  {
+    "cliente": "AREDUDA",
+    "debito": 675,
+    "data": "2021-01-21"
+  },
+  {
+    "cliente": "ARG",
+    "credito": 121.32,
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "BAROGRAN",
+    "debito": 4812.53,
+    "data": "2024-07-31"
+  },
+  {
+    "cliente": "BW STONE ",
+    "credito": 15.2,
+    "data": "2024-07-29"
+  },
+  {
+    "cliente": "BAL MARMORES",
+    "debito": 9596.29,
+    "data": "2024-08-09"
+  },
+  {
+    "cliente": "BOZZO",
+    "credito": 277.45,
+    "data": "2024-08-09"
+  },
+  {
+    "cliente": "BOUTIQUE ",
+    "debito": 1043.54,
+    "data": "2019-04-02"
+  },
+  {
+    "cliente": "CABUÇU NALDO",
+    "debito": 14773.2,
+    "data": "2024-08-12"
+  },
+  {
+    "cliente": "CELSO",
+    "debito": 251,
+    "data": "2020-07-24"
+  },
+  {
+    "cliente": "DBS",
+    "debito": 300,
+    "data": "2024-07-26"
+  },
+  {
+    "cliente": "DODA",
+    "credito": 460.15,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "DAMA DE OURO",
+    "debito": 17062.4,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "DANILO",
+    "credito": 22.61,
+    "data": "2024-07-15"
+  },
+  {
+    "cliente": "DINAMAR",
+    "debito": 282.55,
+    "data": "2021-06-07"
+  },
+  {
+    "cliente": "ERICK/ERINALDO",
+    "credito": 59.53,
+    "data": "2024-06-26"
+  },
+  {
+    "cliente": "EDVALDO/ALEMÃO",
+    "credito": 6.41,
+    "data": "2024-07-26"
+  },
+  {
+    "cliente": "EFATA",
+    "credito": 12.75,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "ERISVALDO",
+    "debito": 2827.4,
+    "data": "2024-07-24"
+  },
+  {
+    "cliente": "ERINALDO ",
+    "credito": 47.25,
+    "data": "2023-05-29"
+  },
+  {
+    "cliente": "FERD AGNOEL",
+    "debito": 21996.68,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "FERD AGNOEL (CONSIGNAÇÃO)",
+    "debito": 4515.6,
+    "data": "2024-04-15"
+  },
+  {
+    "cliente": "FERNANDO / NATANAEL",
+    "credito": 171.3,
+    "data": "2024-04-15"
+  },
+  {
+    "cliente": "FRANCISCO / NALDO ",
+    "credito": 6.03,
+    "data": "2024-05-14"
+  },
+  {
+    "cliente": "FLINSTON",
+    "debito": 300,
+    "data": "2018-11-28"
+  },
+  {
+    "cliente": "GRAN-PAV",
+    "debito": 100.9,
+    "data": "2023-04-12"
+  },
+  {
+    "cliente": "GONÇALVES",
+    "debito": 9000,
+    "data": "2024-05-17"
+  },
+  {
+    "cliente": "GISELI - ZEZINHO",
+    "credito": 27.6,
+    "data": "2024-07-08"
+  },
+  {
+    "cliente": "INOVAÇÃO ",
+    "credito": 289.51,
+    "data": "2024-06-03"
+  },
+  {
+    "cliente": "JN JAIR",
+    "credito": 154.76,
+    "data": "2024-07-04"
+  },
+  {
+    "cliente": "LAERTE ",
+    "debito": 20.78,
+    "data": "2020-06-19"
+  },
+  {
+    "cliente": "LEOMAR",
+    "debito": 15556.02,
+    "data": "2024-08-02"
+  },
+  {
+    "cliente": "LAW MARMORES",
+    "debito": 7487.36,
+    "data": "2024-05-13"
+  },
+  {
+    "cliente": "LUCAS NOVA ALIANÇA",
+    "credito": 28,
+    "data": "2023-09-29"
+  },
+  {
+    "cliente": "LUCAS BOZZO",
+    "debito": 233.1,
+    "data": "2023-05-31"
+  },
+  {
+    "cliente": "MANCHA",
+    "debito": 3413.2,
+    "data": "2024-08-12"
+  },
+  {
+    "cliente": "MARÇAL",
+    "debito": 1549.5,
+    "data": "2024-07-30"
+  },
+  {
+    "cliente": "MARUSAN",
+    "debito": 3366,
+    "data": "2024-08-09"
+  },
+  {
+    "cliente": "M S MARCIO",
+    "debito": 8325.58,
+    "data": "2024-06-20"
+  },
+  {
+    "cliente": "MARCELO",
+    "debito": 8595.04,
+    "data": "2024-08-05"
+  },
+  {
+    "cliente": "MANOEL ",
+    "credito": 2115.82,
+    "data": "2024-08-06"
+  },
+  {
+    "cliente": "MONTE MARMORE",
+    "debito": 5944.25,
+    "data": "2024-07-25"
+  },
+  {
+    "cliente": "MARCOS M.V ",
+    "debito": 674.4,
+    "data": "2024-04-11"
+  },
+  {
+    "cliente": "MATHIAS",
+    "credito": 25.7,
+    "data": "2023-05-24"
+  },
+  {
+    "cliente": "OASIS",
+    "credito": 3341.77,
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "OASIS ",
+    "credito": 104.8,
+    "data": "NaN-aN-aN"
+  },
+  {
+    "cliente": "MONICA",
+    "credito": 63.35,
+    "data": "2024-02-27"
+  },
+  {
+    "cliente": "NALDO NG",
+    "credito": 23.6,
+    "data": "2024-07-11"
+  },
+  {
+    "cliente": "OSWALDO",
+    "debito": 33100.16,
+    "credito": 0,
+    "data": "2024-04-17"
+  },
+  {
+    "cliente": "PAULO ROGERIO",
+    "debito": 8811.23,
+    "data": "2024-08-01"
+  },
+  {
+    "cliente": "PEDRO - TIGA",
+    "credito": 69,
+    "data": "2023-10-30"
+  },
+  {
+    "cliente": "PORTELA ",
+    "credito": 10474.59,
+    "data": "2024-08-09"
+  },
+  {
+    "cliente": "RALF ",
+    "debito": 3728.37,
+    "data": "2024-08-07"
+  },
+  {
+    "cliente": "ROSA AMIGA",
+    "debito": 839.9,
+    "data": "2024-05-17"
+  },
+  {
+    "cliente": "RONALDO WMA",
+    "credito": 29.51,
+    "data": "2024-03-04"
+  },
+  {
+    "cliente": "SILGRAN",
+    "credito": 257.11,
+    "data": "2019-12-13"
+  },
+  {
+    "cliente": "SOUZAMAR ",
+    "debito": 131.39,
+    "data": "2024-07-19"
+  },
+  {
+    "cliente": "TALENTO ",
+    "debito": 834.4,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "TATU",
+    "debito": 2038.28,
+    "data": "2024-08-08"
+  },
+  {
+    "cliente": "TIGA",
+    "credito": 175.95,
+    "data": "2024-07-19"
+  },
+  {
+    "cliente": "TONINHO BARROCADA ",
+    "credito": 9.5,
+    "data": "2024-04-29"
+  },
+  {
+    "cliente": "TONINHO ESKONDERIJO",
+    "credito": 50,
+    "data": "2023-02-17"
+  },
+  {
+    "cliente": "VITORIA ",
+    "credito": 16.4,
+    "data": "2024-06-14"
+  },
+  {
+    "cliente": "WIRLEIS",
+    "credito": 29.9,
+    "data": "2024-08-01"
+  },
+  {
+    "cliente": "WALDIM",
+    "debito": 13692.99,
+    "data": "2024-08-09"
+  },
+  {
+    "cliente": "ZEZINHO ",
+    "credito": 27.6,
+    "data": "2024-07-08"
+  },
+  {
+    "cliente": "ZILDA",
+    "debito": 9905.88,
+    "data": "2024-08-05"
+  },
+  {
+    "debito": 241954.63,
+    "credito": 18491.780000000002,
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  },
+  {
+    "data": "NaN-aN-aN"
+  }
+]
