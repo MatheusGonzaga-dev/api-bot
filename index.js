@@ -139,7 +139,7 @@ app.get('/blocos', (req, res) => {
 });
 
 // Inicia o servidor na porta 3000
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3333;
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`API rodando em http://localhost:${PORT}`);
     console.log('Scripts de agendamento configurados para rodar a cada hora, das 07:30 até as 17:30.');
